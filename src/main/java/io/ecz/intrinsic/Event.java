@@ -1,4 +1,4 @@
-package com.doublelizard.intrinsic;
+package io.ecz.intrinsic;
 
 import java.util.Comparator;
 import java.util.LinkedList;

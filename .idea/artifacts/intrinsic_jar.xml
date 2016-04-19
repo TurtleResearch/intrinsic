@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="intrinsic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/intrinsic_jar</output-path>
+    <root id="archive" name="intrinsic.jar">
+      <element id="module-output" name="intrinsic" />
+    </root>
+  </artifact>
+</component>
